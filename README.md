@@ -1,4 +1,4 @@
-# Bartr- Give.Get.Go: An Interactive Platform
+# Bartr- Give.Get.Go: COPYRIGHT
 
 **COPYRIGHT**
 
